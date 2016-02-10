@@ -1,0 +1,89 @@
+.title h1{
+  background-color: gray;
+  color: white;
+  font-family: verdana;
+  font-size:35px;
+  margin:0px;
+  margin-top: 40px;
+  padding:20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+
+
+.menu{
+  width: 15%;
+  
+  float: left;
+  margin-top: 30px;
+}
+
+.ul{
+  padding-right:2em;
+  list-style:none;
+  padding-left: 0px;
+}
+
+.menu ul li{
+  font-size: 1.2em;
+  font-family: verdana;
+  color: white;
+  background-color: skyblue;
+  padding:25px;
+  margin:2px;
+
+}
+
+.text p{
+  font-size: 2.2em;
+  padding: 0px;
+  margin:20px;
+  width:70%;
+  padding-top:60px;
+  text-align: justify;
+  line-height:1.7em;
+  overflow: hidden;
+  
+}
+
+.container{
+  position: relative;
+  min-height: 300px;
+}
+
+.box{
+  height: 270px;
+  width: 350px;
+  background: white;
+  float: left;
+  margin: 1em;
+  margin-top: 20px;
+  
+}
+
+.box img{
+  height: 270px;
+  width: 350px;
+}
+
+.box1{
+  top: 0px;
+  left: 5px;
+}
+
+.box2{
+  top: 0px;
+  left: 5px;
+}
+
+.box3{
+  top: 0px;
+  left: 5px;
+}
+
+.box4{
+  top: 0px;
+  left: 5px;
+}
